@@ -1,5 +1,7 @@
 # Frontend Mentor - Easybank landing page
 
+[Revisar sitio web](https://rcrespoc.github.io/easybank-landing/)
+
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
